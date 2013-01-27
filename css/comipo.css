@@ -1,0 +1,109 @@
+.comipo01-layout {
+  border: 1px solid #ddd;
+  /* -webkit-border-radius: 6px; */
+  /*    -moz-border-radius: 6px; */
+  /*         border-radius: 6px; */
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+          box-shadow: 0 1px 2px rgba(0,0,0,.075);
+}
+.comipo01-layout,
+.comipo01-layout .comipo01-layout-body,
+.comipo01-layout.fluid .comipo01-layout-sidebar {
+  height: 319px;
+  width: 685px;
+}
+.comipo01-layout {
+  margin-bottom: 17px;
+  /* padding: 9px; */
+}
+.comipo01-layout div {
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
+
+
+.comipo02-layout {
+  border: 1px solid #ddd;
+  /* -webkit-border-radius: 6px; */
+  /*    -moz-border-radius: 6px; */
+  /*         border-radius: 6px; */
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+          box-shadow: 0 1px 2px rgba(0,0,0,.075);
+}
+.comipo02-layout,
+.comipo02-layout .comipo02-layout-body,
+.comipo02-layout.fluid .comipo02-layout-sidebar {
+  height: 319px;
+  width: 336px;
+}
+.comipo02-layout {
+  margin-bottom: 20px;
+  /* padding: 9px; */
+}
+.comipo02-layout div {
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
+
+
+
+.comipo03-layout {
+  border: 1px solid #ddd;
+  /* -webkit-border-radius: 6px; */
+  /*    -moz-border-radius: 6px; */
+  /*         border-radius: 6px; */
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+          box-shadow: 0 1px 2px rgba(0,0,0,.075);
+}
+.comipo03-layout,
+.comipo03-layout .comipo03-layout-body,
+.comipo03-layout.fluid .comipo03-layout-sidebar {
+  float: left;
+  height: 319px;
+  width: 335px;
+}
+.comipo03-layout {
+  margin-bottom: 20px;
+  margin-right: 13px;
+  /* padding: 9px; */
+}
+.comipo03-layout div {
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
+
+
+
+/**/
+.comipo04-layout {
+  border: 1px solid #ddd;
+  /* -webkit-border-radius: 6px; */
+  /*    -moz-border-radius: 6px; */
+  /*         border-radius: 6px; */
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+          box-shadow: 0 1px 2px rgba(0,0,0,.075);
+}
+.comipo04-layout,
+.comipo04-layout .comipo04-layout-body,
+.comipo04-layout.fluid .comipo04-layout-sidebar {
+  clear: both;
+  height: 319px;
+  width: 685px;
+}
+.comipo04-layout {
+  margin-bottom: 20px;
+  margin-right: 12px;
+  /* padding: 9px; */
+}
+.comipo04-layout div {
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
